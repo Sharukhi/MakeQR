@@ -12,7 +12,7 @@ const QrCode = () => {
     let image = canvas.toDataURL("image/png");
     let anchor = document.createElement("a");
     anchor.href = image;
-    anchor.download = `Helium_QRcode.png`;
+    anchor.download = `MakeQRC_QRcode.png`;
     document.body.appendChild(anchor);
     anchor.click();
     document.body.removeChild(anchor);
