@@ -46,13 +46,6 @@ npm run build
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Deploy
-
-To Deploy this on github pages 
-
-```bash
-npm run deploy
-```
 
 ## Licence
 MakeQRC is licenced under [GPLv3](https://github.com/Sharukhi/makeqrc/blob/main/LICENSE.md) and anyone wanting to use it (as a base for your own project or even use some of its parts or features) has to adhere to this license completely. Make sure that you are aware of all the licensing terms before creating your own project based on MakeQRC.
