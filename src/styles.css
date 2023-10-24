@@ -10,7 +10,7 @@
 :root {
   --font-color: 230 35% 7%;
 /*  background-color:  #090d16; */
-background-color: white;
+background-color: #FBECB2;
 }
 
 body {
@@ -55,6 +55,7 @@ input {
   border-width: 2px;
   margin-bottom: 2em;
   margin-top: 0.75em;
+  background-color: #F0F0F0;
 }
 
 button {
@@ -65,7 +66,7 @@ button {
   color: black;
   padding: 1em 0.75em;
 /*  background-color: #E43F5A; */
-  background-color: white;
+  background-color: #F8BDEB;
   cursor: pointer;
   text-transform: uppercase;
   font-weight: normal;

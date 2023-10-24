@@ -28,7 +28,7 @@ const QrCode = () => {
       id="qrCode"
       value={txt}
       size={300}
-      bgColor={"#ffffff"}
+      bgColor={"#F0F0F0"}
       level={"H"}
     />
   );
@@ -46,7 +46,7 @@ const QrCode = () => {
             placeholder="Enter your text here..."
           />
           <button type="submit" disabled={!txt}>
-            Download QR code
+            DOWNLOAD QR
           </button>
         </form>
       </div>
