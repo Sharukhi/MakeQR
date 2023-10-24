@@ -1,11 +1,11 @@
-<p align="center"><img style="width: 100px;" src="public\assets\makeqrc_circle.png"></p>
-
-<div style="text-align: center;" >
-<h1 >MakeQRC</h1>
-<p>Generate QR codes from text or URL.</p>
-<a herf="https://makeqrc.sharukhi.xyz/" target="_blank">GENERATE</a>
+<div align="center">
+  <p>
+      <img style="width: 125px;" src="public\assets\makeqrc_circle.png">
+  </p>
+  <h2> MakeQRC </h2>
+  <p>Generate QR codes from text or URL</p>
+  <p><a href="https://makeqrc.sharukhi.xyz">GENERATE</a></p>
 </div>
-
 
 
 ## Features
