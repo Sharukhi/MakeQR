@@ -1,13 +1,16 @@
-![image](public/assets/readme.jpeg)
+<p align="center"><img style="width: 100px;" src="public\assets\makeqrc_circle.png"></p>
+
+<div style="text-align: center;" >
+<h1 >MakeQRC</h1>
+<p>Generate QR codes from text or URL.</p>
+<a herf="https://makeqrc.sharukhi.xyz/" target="_blank">GENERATE</a>
+</div>
 
 
-## What is MakeQRC?
 
-MakeQRC is a web app to generate QR codes from text or URL.
+## Features
 
-### Features
-
-- Minimal UI
+- Minimal
 - Easy to use
 - Fast
 
