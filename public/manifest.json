@@ -21,6 +21,10 @@
     "description": "Generate QR codes from text or URL",
     "background_color": "#FBECB2",
     "theme_color": "#FBECB2",
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "display": "standalone",
+    "scope": "/",
     "screenshots": [
       {
         "src": "assets/cover.png",
