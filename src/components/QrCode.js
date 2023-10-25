@@ -48,6 +48,7 @@ const QrCode = () => {
           <button type="submit" disabled={!txt}>
             DOWNLOAD QR
           </button>
+          
         </form>
       </div>
     </div>
