@@ -19,6 +19,8 @@
       }
     ],
     "description": "Generate QR codes from text or URL",
+    "background_color": "#FBECB2",
+    "theme_color": "#FBECB2",
     "screenshots": [
       {
         "src": "assets/cover.png",
