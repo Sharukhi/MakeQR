@@ -33,6 +33,12 @@
         "type": "image/jpg",
         "sizes": "720x540",
         "form_factor": "wide"
-      }
+      },
+      {
+      "src": "maskable.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
     ]
   }
