@@ -19,7 +19,7 @@
       }
     ],
     "description": "Generate QR codes from text or URL",
-    "background_color": "#FBECB2",
+    "background_color": "#000000",
     "theme_color": "#FBECB2",
     "id": "/?source=pwa",
     "start_url": "/?source=pwa",
@@ -27,13 +27,13 @@
     "scope": "/",
     "screenshots": [
       {
-        "src": "assets/cover.png",
+        "src": "assets/cover.jpeg",
         "type": "image/png",
         "sizes": "540x720",
         "form_factor": "narrow"
       },
       {
-        "src": "assets/cover.png",
+        "src": "assets/cover2.jpeg",
         "type": "image/jpg",
         "sizes": "720x540",
         "form_factor": "wide"

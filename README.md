@@ -6,6 +6,9 @@
   <p>Generate QR codes from text or URL</p>
   <p><a href="https://makeqrc.sharukhi.xyz">GENERATE</a></p>
 </div>
+<div align="center">
+<img src="public/assets/cover.jpeg" width="50%"><img src="public/assets/cover2.jpeg" width="50%">
+</div>
 
 
 ## Features
