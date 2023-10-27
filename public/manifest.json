@@ -27,16 +27,16 @@
     "scope": "/",
     "screenshots": [
       {
-        "src": "assets/cover.jpeg",
+        "src": "assets/cover.png",
         "type": "image/png",
         "sizes": "540x720",
         "form_factor": "narrow"
       },
       {
-        "src": "assets/cover2.jpeg",
-        "type": "image/jpg",
-        "sizes": "720x540",
-        "form_factor": "wide"
+        "src": "assets/cover2.png",
+        "type": "image/png",
+        "sizes": "540x720",
+        "form_factor": "narrow"
       },
       {
       "src": "maskable.png",
