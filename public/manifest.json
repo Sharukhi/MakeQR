@@ -41,6 +41,20 @@
       "label": "MakeQRC"
     },
     {
+      "src": "https://raw.githubusercontent.com/Sharukhi/makeqrc/main/public/assets/cover1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "MakeQRC"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Sharukhi/makeqrc/main/public/assets/cover2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "MakeQRC"
+    },
+    {
       "src": "maskable.png",
       "sizes": "196x196",
       "type": "image/png",
