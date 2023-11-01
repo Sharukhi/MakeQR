@@ -1,13 +1,13 @@
 <div align="center">
   <p>
-      <img style="width: 125px;" src="public\assets\makeqrc_circle.png">
+      <img style="width: 125px;" src="source\public\assets\makeqrc_circle.png">
   </p>
   <h2> MakeQRC </h2>
   <p>Generate QR codes from text or URL</p>
   <p><a href="https://makeqrc.sharukhi.xyz">GENERATE</a></p>
 </div>
 <div align="center">
-<img src="public/assets/cover.jpeg" width="50%"><img src="public/assets/cover2.jpeg" width="50%">
+<img src="source/public/assets/cover.jpeg" width="50%"><img src="source/public/assets/cover2.jpeg" width="50%">
 </div>
 
 
