@@ -1,6 +1,6 @@
   {
   "short_name": "MakeQRC",
-  "name": "Generate QR codes from text or URL",
+  "name": "MakeQRC",
   "icons": [
     {
       "src": "assets/makeqrc_circle.png",
