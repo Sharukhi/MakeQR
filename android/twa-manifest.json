@@ -1,0 +1,43 @@
+{
+  "packageId": "xyz.sharukhi.makeqrc",
+  "host": "makeqrc.sharukhi.xyz",
+  "name": "MakeQRC",
+  "launcherName": "MakeQRC",
+  "display": "standalone",
+  "themeColor": "#000000",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#000000",
+  "enableNotifications": true,
+  "startUrl": "/?source=pwa",
+  "iconUrl": "https://makeqrc.sharukhi.xyz/assets/makeqrc_circle.png",
+  "maskableIconUrl": "https://makeqrc.sharukhi.xyz/assets/makeqrc_circle.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\Users\\Rumman\\Desktop\\Projects\\makeqrc\\android\\android.keystore",
+    "alias": "makeqrc"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://makeqrc.sharukhi.xyz/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://makeqrc.sharukhi.xyz/",
+  "minSdkVersion": 19,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}
