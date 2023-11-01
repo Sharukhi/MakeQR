@@ -7,7 +7,7 @@ git clone https://github.com/Sharukhi/makeqrc.git
 Then go to the project directory 
 
 ```bash 
-cd makeqrc
+cd makeqrc/source/
 ```
 and run
 ```bash 
