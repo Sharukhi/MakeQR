@@ -1,0 +1,8 @@
+xyz/sharukhi/makeqrc/Application.java
+ xyz.sharukhi.makeqrc.Application
+xyz/sharukhi/makeqrc/DelegationService.java
+ xyz.sharukhi.makeqrc.DelegationService
+xyz/sharukhi/makeqrc/LauncherActivity.java
+ xyz.sharukhi.makeqrc.LauncherActivity
+xyz/sharukhi/makeqrc/BuildConfig.java
+ xyz.sharukhi.makeqrc.BuildConfig

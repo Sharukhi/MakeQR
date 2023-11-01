@@ -4,7 +4,10 @@
   </p>
   <h2> MakeQRC </h2>
   <p>Generate QR codes from text or URL</p>
-  <p><a href="https://makeqrc.sharukhi.xyz">GENERATE</a></p>
+
+</div>
+<div align="center">
+<a href="https://makeqrc.sharukhi.xyz"><img src="source/public/assets/web.png" width="30%"></a><a href="https://makeqrc.sharukhi.xyz/download/makeqrc-V1.0.apk"><img src="source/public/assets/android.png" width="30%"></a>
 </div>
 <div align="center">
 <img src="source/public/assets/cover.jpeg" width="50%"><img src="source/public/assets/cover2.jpeg" width="50%">
