@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "xyz.sharukhi.makeqrc",
+        "sha256_cert_fingerprints": [
+          "F9:A4:E9:E1:32:BF:F9:46:D9:9D:11:D4:6C:BA:E2:E5:89:35:24:C3:08:47:5A:26:E2:C8:94:B8:8D:52:B8:47"
+        ]
+      }
+    }
+  ]
